@@ -85,10 +85,10 @@ Navbar: Contains navigation links for login, signup, and the task manager home p
 
 Links
 
-Frontend Deployment: Frontend Application
+Frontend Deployment:[ Frontend Application](https://task-manager-application-frontend.onrender.com/)
 
-Backend Deployment: Backend API
-
+Backend Deployment: [Backend API
+](https://task-manager-application-backend-wedc.onrender.com)
 Contribution
 
 Feel free to fork this repository, make improvements, and submit pull requests. Contributions are welcome!
