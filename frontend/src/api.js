@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api/tasks"; // Your backend URL
+const API_URL = "https://task-manager-application-backend-wedc.onrender.com"; // Your backend URL
 
 // Fetch tasks with pagination and optional search
 export const getTasks = async (searchQuery = "", page = 1, limit = 10) => {
