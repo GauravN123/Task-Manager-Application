@@ -79,10 +79,6 @@ Additional Features
 
 Search Bar: Case-insensitive search for tasks by title.
 
-Pagination: Limits the number of tasks displayed per page for better performance.
-
-Navbar: Contains navigation links for login, signup, and the task manager home page.
-
 Links
 
 Frontend Deployment:[ Frontend Application](https://task-manager-application-frontend.onrender.com/)
